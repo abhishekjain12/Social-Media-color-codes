@@ -1,0 +1,44 @@
+
+.flipboard{
+	background-color: #e12828;
+}
+
+.linkedin{
+  background-color: #0077b5;
+ }
+ 
+.tumblr{
+  background-color:#35465c;
+ }
+ 
+.pinterest{
+  background-color:#bd081c;
+ }
+  
+.facebook{
+  background-color:#3b5998;
+ }
+ 
+.twitter{
+  background-color:#1DA1F2;
+ }
+ 
+.google-plus{
+  background-color:#c53929;
+ }
+ 
+.youtube{
+  background-color:#b31217;
+ }
+ 
+.rss{
+  background-color:#f26522;
+ }
+ 
+.github{
+  background-color:#4B515D;
+ }
+ 
+.whatsapp{
+  background-color:#25D366;
+ }
