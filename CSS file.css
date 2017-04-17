@@ -1,8 +1,3 @@
-
-.instagram{
-	background: linear-gradient( #400080, transparent),linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
-}
-
 .flipboard{
 	background-color: #e12828;
 }
@@ -46,3 +41,7 @@
 .whatsapp{
   background-color:#25D366;
  }
+
+.instagram{
+	background: linear-gradient( #400080, transparent),linear-gradient(200deg, #d047d1, #ff0000, #ffff00);
+}
