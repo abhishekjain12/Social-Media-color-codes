@@ -12,3 +12,4 @@ Color codes for social media lcon in CSS
 9. RSS
 10. GitHub
 11. WhatsApp
+12. Instagram ;)
